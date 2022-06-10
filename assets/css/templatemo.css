@@ -46,10 +46,23 @@ body, ul, li, p, a, label, input, div {
   font-size: 22px !important;
 }
 
+.h4{
+  font-family: 'Roboto', sans-serif;
+  font-size: 24px !important;
+}
 .container-bg {
   background-color:#ebeae6;
 }
 
+/*.margin-index {
+  margin-right: 20%;
+  margin-left: 20%;
+}
+*/
+
+.rowele {
+  padding-right: 143px;
+}
 .welcome {
   color:#173c59 !important;
 }
