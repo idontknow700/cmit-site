@@ -7,12 +7,6 @@ Table of contents
 1. Typography
 2. General
 3. Nav
-4. Hero Carousel
-5. Accordion
-6. Shop
-7. Product
-8. Carousel Hero
-9. Carousel Brand
 10. Services
 11. Contact map
 12. Footer
@@ -87,19 +81,19 @@ body, ul, li, p, a, label, input, div {
   color: #fff;
 }
 /* Nav */
-#templatemo_nav_top { min-height: 40px;}
-#templatemo_nav_top { max-height: 60px;}
-#templatemo_nav_top * { font-size: .9em !important;}
-#templatemo_main_nav a { color: #212934;}
-#templatemo_main_nav a:hover { color: #69bb7e;}
-#templatemo_main_nav .navbar .nav-icon { margin-right: 20px;}
+#cmit_nav_top { min-height: 40px;}
+#cmit_nav_top { max-height: 60px;}
+#cmit_nav_top * { font-size: .9em !important;}
+#cmit_main_nav a { color: #212934;}
+#cmit_main_nav a:hover { color: #69bb7e;}
+#cmit_main_nav .navbar .nav-icon { margin-right: 20px;}
 
 
 /* Hero Carousel */
 #template-mo-zay-hero-carousel { background: #efefef !important;}
 /* Accordion */
-.templatemo-accordion a { color: #000;}
-.templatemo-accordion a:hover { color: #333d4a;}
+.cmit-accordion a { color: #000;}
+.cmit-accordion a:hover { color: #333d4a;}
 /* Shop */
 .shop-top-menu a:hover { color: #69bb7e !important;}
 /* Product */
@@ -194,12 +188,12 @@ body, ul, li, p, a, label, input, div {
 
 /*// Medium devices (tablets, 768px and up)*/
 @media (min-width: 768px) {
-  #templatemo_main_nav .navbar-nav {max-width: 450px;}
+  #cmit_main_nav .navbar-nav {max-width: 450px;}
  }
 
 /* Large devices (desktops, 992px and up)*/
 @media (min-width: 992px) {
-  #templatemo_main_nav .navbar-nav {max-width: 550px;}
+  #cmit_main_nav .navbar-nav {max-width: 550px;}
   #template-mo-zay-hero-carousel .carousel-item {min-height: 30rem !important;}
   .product-wap .h3, .product-wap li, .product-wap i, .product-wap p {font-size: 18px !important;}
   .product-wap .product-color-dot {
